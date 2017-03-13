@@ -1,0 +1,4 @@
+@font-face{font-family:'Simonetta';font-style:normal;font-weight:400;src:url(font/400.woff2) format('woff2'),url(font/400.woff) format('woff');}
+@font-face{font-family:'Simonetta';font-style:italic;font-weight:400;src:url(font/400i.woff2) format('woff2'),url(font/400i.woff) format('woff');}
+@font-face{font-family:'Simonetta';font-style:normal;font-weight:900;src:url(font/900.woff2) format('woff2'),url(font/900.woff) format('woff');}
+@font-face{font-family:'Simonetta';font-style:italic;font-weight:900;src:url(font/900i.woff2) format('woff2'),url(font/900i.woff) format('woff');}

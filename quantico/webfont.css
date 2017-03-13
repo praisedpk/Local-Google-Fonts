@@ -1,0 +1,4 @@
+@font-face{font-family:'Quantico';font-style:normal;font-weight:400;src:url(font/400.woff2) format('woff2'),url(font/400.woff) format('woff');}
+@font-face{font-family:'Quantico';font-style:italic;font-weight:400;src:url(font/400i.woff2) format('woff2'),url(font/400i.woff) format('woff');}
+@font-face{font-family:'Quantico';font-style:normal;font-weight:700;src:url(font/700.woff2) format('woff2'),url(font/700.woff) format('woff');}
+@font-face{font-family:'Quantico';font-style:italic;font-weight:700;src:url(font/700i.woff2) format('woff2'),url(font/700i.woff) format('woff');}

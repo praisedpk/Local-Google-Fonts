@@ -1,0 +1,8 @@
+@font-face{font-family:'Cabin';font-style:normal;font-weight:400;src:url(font/400.woff2) format('woff2'),url(font/400.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:italic;font-weight:400;src:url(font/400i.woff2) format('woff2'),url(font/400i.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:normal;font-weight:500;src:url(font/500.woff2) format('woff2'),url(font/500.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:italic;font-weight:500;src:url(font/500i.woff2) format('woff2'),url(font/500i.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:normal;font-weight:600;src:url(font/600.woff2) format('woff2'),url(font/600.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:italic;font-weight:600;src:url(font/600i.woff2) format('woff2'),url(font/600i.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:normal;font-weight:700;src:url(font/700.woff2) format('woff2'),url(font/700.woff) format('woff');}
+@font-face{font-family:'Cabin';font-style:italic;font-weight:700;src:url(font/700i.woff2) format('woff2'),url(font/700i.woff) format('woff');}
